@@ -1,0 +1,5 @@
+eGw6kse2ZM4rZFS4f0O-oBJCq5CJ8KhxOcVvVUkWhhrh
+
+https://api.us-south.language-translator.watson.cloud.ibm.com/instances/edcb75b5-b501-479e-9a5b-cc6d9a2253c6
+
+https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-PY0101EN-SkillsNetwork/labs/FinalModule_Coursera/PY0101EN_Coursera_FinalAssignment.ipynb
